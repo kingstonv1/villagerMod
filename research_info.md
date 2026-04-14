@@ -5,3 +5,5 @@ for new Minecraft mobs and villagers. This may prove useful later, but I'd like 
 external dependencies for now.
 
 https://forge.gemwire.uk → Forge modding wiki with good information.
+
+https://mcstreetguy.github.io/ForgeJavaDocs/1.21-latest/ → Forge modding Java API
